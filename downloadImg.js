@@ -24,22 +24,22 @@ console.log(dir)
 // 这个地址如果没有，可以换成spiderPic.js操作
 
 var urlArr = [
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xiaoxiao1.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xiaoxiao2.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xiaoxiao3.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xiaoxiao4.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xinyidai1.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xinyidai2.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xinyidai3.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xinyidai4.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/baodandai1.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/baodandai2.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/baodandai3.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/baodandai4.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/chedidai1.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/chedidai2.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/chedidai3.jpg',
-'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/chedidai4.jpg'
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xiaoxiao1.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xiaoxiao2.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xiaoxiao3.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xiaoxiao4.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xinyidai1.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xinyidai2.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xinyidai3.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/xinyidai4.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/baodandai1.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/baodandai2.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/baodandai3.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/baodandai4.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/chedidai1.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/chedidai2.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/chedidai3.jpg',
+	'http://m.pingan.com/app_images/wap/v30/c3/chaoshi/sys/daikuan/chedidai4.jpg'
 ];
 
 // 主要方法，用于下载文件
